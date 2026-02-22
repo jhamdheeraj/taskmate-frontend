@@ -1,0 +1,11 @@
+.active {
+    color: red;
+}
+
+.completed {
+    color: green;
+}
+
+.incomplete {
+    color: brown;
+}
